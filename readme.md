@@ -1,3 +1,15 @@
+Project developed at the Bootcamp CAIXA - Artificial Intelligence in Practice with guidance from specialist [Henrique Eduardo Souza](https://www.linkedin.com/in/hsouzaeduardo/?locale=pt_BR "Henrique Eduardo Souza").
+Learning to perform an integration between two agents: 
+- Conduct a structured 7-question interview with Agent 1,
+- After collecting the information, suggest 3 ranked careers and transfer them to Agent 2,
+- Receive the information from Agent 1 and generate a complete study plan.
+
+[LICENSE](/LICENSE)
+
+See [original repository](https://github.com/digitalinnovationone/copilot-prompts).
+
+---
+
 <!--START_SECTION:header-->
 <div align="center">
   <p align="center">
@@ -141,7 +153,10 @@ Tools and Technologies:
 
 After completing the course/bootcamp, students will be able to:
 
-- face challenges, solve problems in modern front-end projects (React, JavaScript, APIs), gaining experience and consolidating their career as Front-End Developers.  
+- face challenges, solve problems in modern front-end projects (React, JavaScript, APIs), gaining experience and consolidating their career as Front-End Developers.
+
+# Certificate
+![Chat](.dio/Santander_Fullstack_Developer_Bootcamp.png)
 
 <!--START_SECTION:footer-->
 
