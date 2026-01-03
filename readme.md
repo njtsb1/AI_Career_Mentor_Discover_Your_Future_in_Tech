@@ -1,4 +1,5 @@
 Project developed at the Bootcamp CAIXA - Artificial Intelligence in Practice with guidance from specialist [Henrique Eduardo Souza](https://www.linkedin.com/in/hsouzaeduardo/?locale=pt_BR "Henrique Eduardo Souza").
+
 Learning to perform an integration between two agents: 
 - Conduct a structured 7-question interview with Agent 1,
 - After collecting the information, suggest 3 ranked careers and transfer them to Agent 2,
