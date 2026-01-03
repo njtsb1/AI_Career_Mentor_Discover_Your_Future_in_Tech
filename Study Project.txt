@@ -1,0 +1,227 @@
+## Profile Analysis
+
+Based on this, I identified 3 very promising careers:
+
+---
+
+════════════════════════════════════════════════════════════  
+1st PLACE: Full Stack Developer — 18/20  
+════════════════════════════════════════════════════════════  
+
+Why it matches you:  
+You enjoy solving problems and have an interest in web, apps, and games. The Full Stack profile allows you to work both on the front-end (interface) and back-end (logic and data), leveraging your administrative experience to handle projects and organization.  
+
+What to expect:  
+Advantages:  
+- Versatility: can work in several stages of a project  
+- High demand in companies of all sizes  
+
+Challenges:  
+- Need to learn many different technologies  
+- Constant updates in frameworks and languages  
+
+Market:  
+Very hot, especially in startups and digital companies. Demand varies by region and experience, but it is one of the most sought-after careers.
+
+---
+
+════════════════════════════════════════════════════════════  
+2nd PLACE: Data Scientist / Machine Learning Engineer — 17/20  
+════════════════════════════════════════════════════════════  
+
+Why it matches you:  
+You like data and code, and you are interested in artificial intelligence. This career combines statistics, programming, and data analysis to create predictive models and intelligent solutions.  
+
+What to expect:  
+Advantages:  
+- Work on innovative AI projects  
+- Highly valued in the market  
+
+Challenges:  
+- Requires math and statistics  
+- Longer ramp-up until becoming junior  
+
+Market:  
+Growing rapidly, especially in companies that want to use data for strategic decisions. Demand varies by region, but it is a high-demand area globally.
+
+---
+
+════════════════════════════════════════════════════════════  
+3rd PLACE: Game Developer / Mobile Apps — 15/20  
+════════════════════════════════════════════════════════════  
+
+Why it matches you:  
+Your interest in games and apps connects directly with this career. You can create interactive experiences and leverage your programming logic and creativity.  
+
+What to expect:  
+Advantages:  
+- Work on creative and dynamic projects  
+- Possibility to start your own games/apps  
+
+Challenges:  
+- Competitive market  
+- Requires dedication to stand out  
+
+Market:  
+Growing with the popularization of smartphones and gaming platforms. Demand varies by region and niche, but it is a constantly evolving area.
+
+---
+
+Perfect, let’s adjust your plan: now focused on Front-End Developer and expanded to 180 days (6 months), leveraging your 18h/week workload and your existing experience.  
+
+---
+
+## Day-to-Day Vision
+
+What a Front-End Developer does:
+
+- Create responsive and accessible web interfaces  
+- Implement reusable components in modern frameworks  
+- Integrate APIs in the front-end to consume data  
+- Ensure performance and page optimization  
+- Collaborate with designers and back-end developers  
+
+---
+
+## Skills Map
+
+CORE SKILLS (essential):  
+- HTML5, CSS3 (Flexbox, Grid, responsiveness)  
+- JavaScript (ES6+, DOM, events, async/await)  
+- Modern frameworks (React.js)  
+
+NICE-TO-HAVE (complementary):  
+- TypeScript  
+- Testing (Jest, React Testing Library)  
+
+Tools and Technologies:  
+- React.js  
+- Git/GitHub  
+- Figma (for design and prototyping)  
+- REST/GraphQL APIs  
+- Vite/Webpack (build and optimization)  
+
+---
+
+## 180-Day Roadmap
+
+Adapted for: 18 hours/week (expanded and deepened content)
+
+Month 1 - Fundamentals  
+Week 1-2:  
+- Review semantic HTML and best practices  
+- Advanced CSS: Flexbox, Grid, responsiveness  
+
+Week 3-4:  
+- Basic JavaScript (variables, functions, loops, DOM)  
+- Git/GitHub: versioning and collaboration  
+
+---
+
+Month 2 - Advanced JavaScript  
+Week 5-6:  
+- ES6+, modules, arrow functions, promises  
+- API handling with fetch/axios  
+
+Week 7-8:  
+- Async/await, error handling  
+- Simple project: consuming a public API (e.g., movie list)  
+
+---
+
+Month 3 - React Fundamentals  
+Week 9-10:  
+- JSX, components, props and state  
+- Basic hooks (useState, useEffect)  
+
+Week 11-12:  
+- Routing with React Router  
+- Project: simple SPA (e.g., product catalog)  
+
+---
+
+Month 4 - Advanced React  
+Week 13-14:  
+- Context API, advanced hooks (useReducer, useContext)  
+- Integration with REST APIs  
+
+Week 15-16:  
+- TypeScript in React  
+- Project: interactive dashboard with charts and filters  
+
+---
+
+Month 5 - Performance and Testing  
+Week 17-18:  
+- Performance optimization (lazy loading, memoization)  
+- Unit testing with Jest and React Testing Library  
+
+Week 19-20:  
+- Accessibility and UX best practices  
+- Project: accessible application with responsive design  
+
+---
+
+Month 6 - Portfolio and Preparation  
+Week 21-22:  
+- Final integrative project: complete React app with authentication and API consumption  
+- Deploy on Vercel/Netlify  
+
+Week 23-24:  
+- Preparation for technical interviews  
+- Review basic algorithms and conceptual questions  
+
+---
+
+## Portfolio Project
+
+Project: Movie Management Application  
+
+What to do:  
+Build a React application that allows users to register, list, and favorite movies, consuming an external API.  
+
+Deliverables:  
+- Responsive and accessible interface  
+- External API consumption (e.g., OMDb API)  
+- Simple authentication (login/logout)  
+
+Acceptance criteria:  
+- Complete CRUD of movies  
+- Functional deploy on Vercel/Netlify  
+- Code versioned on GitHub with detailed README  
+
+Tip: Use reusable components and document your project to stand out in your portfolio.  
+
+---
+
+## Interview Script
+
+Question 1: What is the DOM and how to manipulate it?  
+Answer: It is the representation of the HTML structure in memory and can be manipulated via JavaScript.  
+
+Question 2: What are props and state in React?  
+Answer: Props are data passed from a parent to a child component; state is internal and managed by the component.  
+
+Question 3: How to ensure performance in a React application?  
+Answer: Use memoization, lazy loading, split code into smaller components, and avoid unnecessary re-renders.  
+
+Question 4: What is responsiveness and how to apply it?  
+Answer: It is adapting the interface to different screen sizes using CSS (media queries, Flexbox, Grid).  
+
+Question 5: What is the difference between SPA and MPA?  
+Answer: SPA loads a single page and updates dynamically; MPA loads multiple complete pages.  
+
+---
+
+## Recommended DIO Track
+
+Track: Santander Fullstack Developer Bootcamp (focus on front-end with React and integration)  
+
+Why this track:  
+Despite the name "Fullstack," it has a strong emphasis on modern front-end (React, JavaScript, APIs), ideal to consolidate your career as a Front-End Developer.  
+
+Next steps:  
+1. Access dio.me  
+2. Search for "Santander Fullstack Developer Bootcamp"  
+3. Sign up for free  
+4. Follow the schedule along with this 180-day roadmap  

@@ -1,0 +1,227 @@
+## Análise de Perfil
+
+Com base nisso, identifiquei 3 carreiras muito promissoras:
+
+---
+
+════════════════════════════════════════════════════════════  
+1º LUGAR: Desenvolvedor Full Stack — 18/20  
+════════════════════════════════════════════════════════════  
+
+Por que combina com você:  
+Você gosta de resolver problemas e tem interesse em web, apps e jogos. O perfil Full Stack permite atuar tanto no front-end (interface) quanto no back-end (lógica e dados), aproveitando sua experiência administrativa para lidar com projetos e organização.  
+
+O que esperar:  
+Vantagens:  
+- Versatilidade: pode atuar em várias etapas de um projeto  
+- Alta demanda em empresas de todos os portes  
+
+Desafios:  
+- Necessidade de aprender muitas tecnologias diferentes  
+- Atualizações constantes em frameworks e linguagens  
+
+Mercado:  
+Muito aquecido, especialmente em startups e empresas digitais. A demanda varia por região e experiência, mas é uma das carreiras mais procuradas.
+
+---
+
+════════════════════════════════════════════════════════════  
+2º LUGAR: Cientista de Dados / Engenheiro de Machine Learning — 17/20  
+════════════════════════════════════════════════════════════  
+
+Por que combina com você:  
+Você gosta de dados e código, e tem interesse em inteligência artificial. Essa carreira combina estatística, programação e análise de dados para criar modelos preditivos e soluções inteligentes.  
+
+O que esperar:  
+Vantagens:  
+- Trabalhar em projetos inovadores de IA  
+- Muito valorizado no mercado  
+
+Desafios:  
+- Exige matemática e estatística  
+- Ramp-up mais longo até se tornar júnior  
+
+Mercado:  
+Crescendo rapidamente, especialmente em empresas que querem usar dados para decisões estratégicas. A demanda varia por região, mas é uma área de alta procura globalmente.
+
+---
+
+════════════════════════════════════════════════════════════  
+3º LUGAR: Desenvolvedor de Jogos / Aplicativos Mobile — 15/20  
+════════════════════════════════════════════════════════════  
+
+Por que combina com você:  
+Seu interesse em jogos e apps conecta diretamente com essa carreira. Você pode criar experiências interativas e aproveitar sua lógica de programação e criatividade.  
+
+O que esperar:  
+Vantagens:  
+- Trabalhar em projetos criativos e dinâmicos  
+- Possibilidade de criar seus próprios jogos/apps  
+
+Desafios:  
+- Mercado competitivo  
+- Exige dedicação para se destacar  
+
+Mercado:  
+Em crescimento com a popularização de smartphones e plataformas de jogos. A demanda varia por região e nicho, mas é uma área em constante evolução.
+
+---
+
+Ajuste do plano: agora focado em Desenvolvedor Front-End e expandido para 180 dias (6 meses), aproveitando sua carga de 18h/semana e sua experiência prévia.  
+
+---
+
+## Visão do Dia a Dia
+
+O que um Desenvolvedor Front-End faz:
+
+- Criar interfaces web responsivas e acessíveis  
+- Implementar componentes reutilizáveis em frameworks modernos  
+- Integrar APIs no front-end para consumir dados  
+- Garantir performance e otimização de páginas  
+- Colaborar com designers e desenvolvedores back-end  
+
+---
+
+## Mapa de Habilidades
+
+HABILIDADES ESSENCIAIS:  
+- HTML5, CSS3 (Flexbox, Grid, responsividade)  
+- JavaScript (ES6+, DOM, eventos, async/await)  
+- Frameworks modernos (React.js)  
+
+HABILIDADES COMPLEMENTARES:  
+- TypeScript  
+- Testes (Jest, React Testing Library)  
+
+Ferramentas e Tecnologias:  
+- React.js  
+- Git/GitHub  
+- Figma (design e prototipagem)  
+- APIs REST/GraphQL  
+- Vite/Webpack (build e otimização)  
+
+---
+
+## Roteiro de 180 Dias
+
+Adaptado para: 18 horas/semana (conteúdo expandido e aprofundado)
+
+Mês 1 - Fundamentos  
+Semana 1-2:  
+- Revisão de HTML semântico e boas práticas  
+- CSS avançado: Flexbox, Grid, responsividade  
+
+Semana 3-4:  
+- JavaScript básico (variáveis, funções, loops, DOM)  
+- Git/GitHub: versionamento e colaboração  
+
+---
+
+Mês 2 - JavaScript Avançado  
+Semana 5-6:  
+- ES6+, módulos, arrow functions, promises  
+- Consumo de APIs com fetch/axios  
+
+Semana 7-8:  
+- Async/await, tratamento de erros  
+- Projeto simples: consumir uma API pública (ex.: lista de filmes)  
+
+---
+
+Mês 3 - Fundamentos de React  
+Semana 9-10:  
+- JSX, componentes, props e state  
+- Hooks básicos (useState, useEffect)  
+
+Semana 11-12:  
+- Roteamento com React Router  
+- Projeto: SPA simples (ex.: catálogo de produtos)  
+
+---
+
+Mês 4 - React Avançado  
+Semana 13-14:  
+- Context API, hooks avançados (useReducer, useContext)  
+- Integração com APIs REST  
+
+Semana 15-16:  
+- TypeScript no React  
+- Projeto: dashboard interativo com gráficos e filtros  
+
+---
+
+Mês 5 - Performance e Testes  
+Semana 17-18:  
+- Otimização de performance (lazy loading, memoization)  
+- Testes unitários com Jest e React Testing Library  
+
+Semana 19-20:  
+- Boas práticas de acessibilidade e UX  
+- Projeto: aplicação acessível com design responsivo  
+
+---
+
+Mês 6 - Portfólio e Preparação  
+Semana 21-22:  
+- Projeto integrador final: app completo em React com autenticação e consumo de API  
+- Deploy no Vercel/Netlify  
+
+Semana 23-24:  
+- Preparação para entrevistas técnicas  
+- Revisão de algoritmos básicos e questões conceituais  
+
+---
+
+## Projeto de Portfólio
+
+Projeto: Aplicativo de Gerenciamento de Filmes  
+
+O que fazer:  
+Construir uma aplicação React que permita cadastrar, listar e favoritar filmes, consumindo uma API externa.  
+
+Entregáveis:  
+- Interface responsiva e acessível  
+- Consumo de API externa (ex.: OMDb API)  
+- Autenticação simples (login/logout)  
+
+Critérios de aceitação:  
+- CRUD completo de filmes  
+- Deploy funcional no Vercel/Netlify  
+- Código versionado no GitHub com README detalhado  
+
+Dica: Use componentes reutilizáveis e documente seu projeto para se destacar no portfólio.  
+
+---
+
+## Roteiro de Entrevista
+
+Pergunta 1: O que é o DOM e como manipulá-lo?  
+Resposta: É a representação da estrutura HTML em memória e pode ser manipulado via JavaScript.  
+
+Pergunta 2: O que são props e state no React?  
+Resposta: Props são dados passados de um componente pai para um filho; state é interno e gerenciado pelo componente.  
+
+Pergunta 3: Como garantir performance em uma aplicação React?  
+Resposta: Usar memoization, lazy loading, dividir código em componentes menores e evitar re-renderizações desnecessárias.  
+
+Pergunta 4: O que é responsividade e como aplicá-la?  
+Resposta: É adaptar a interface a diferentes tamanhos de tela usando CSS (media queries, Flexbox, Grid).  
+
+Pergunta 5: Qual a diferença entre SPA e MPA?  
+Resposta: SPA carrega uma única página e atualiza dinamicamente; MPA carrega várias páginas completas.  
+
+---
+
+## Trilha DIO Recomendada
+
+Trilha: Santander Fullstack Developer Bootcamp (foco em front-end com React e integração)  
+
+Por que essa trilha:  
+Apesar do nome "Fullstack", tem forte ênfase em front-end moderno (React, JavaScript, APIs), ideal para consolidar sua carreira como Desenvolvedor Front-End.  
+
+Próximos passos:  
+1. Acessar dio.me  
+2. Buscar "Santander Fullstack Developer Bootcamp"  
+3. Inscrever-se gratuitamente  
+4. Seguir o cronograma junto com este roteiro de 180 dias
