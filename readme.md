@@ -1,3 +1,7 @@
+Daily learning
+
+# AI Career Mentor Discover Your Future in Tech
+
 Project developed at the Bootcamp CAIXA - Artificial Intelligence in Practice with guidance from specialist [Henrique Eduardo Souza](https://www.linkedin.com/in/hsouzaeduardo/?locale=pt_BR "Henrique Eduardo Souza").
 
 Learning to perform an integration between two agents: 
